@@ -60,7 +60,10 @@ OUTPUT
 
 ---
 MANUAL CALCULATIONS
-<img width="824" height="463" alt="Screenshot 2025-09-25 081531" src="https://github.com/user-attachments/assets/f00c6dad-9734-4b24-9347-67abe8b0c95f" />
+---
+<img width="596" height="587" alt="Screenshot 2025-09-25 082237" src="https://github.com/user-attachments/assets/9122545e-8e79-4673-b380-37c51b5c3e3e" />
+
+
 
 
 ---
